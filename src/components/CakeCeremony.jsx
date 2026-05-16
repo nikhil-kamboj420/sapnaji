@@ -293,7 +293,7 @@ export default function CakeCeremony({
           <div className="absolute inset-x-0 top-0 h-24 bg-gradient-to-b from-[#fed7f2]/40 via-transparent to-transparent" />
           <div className="relative mx-auto mb-6 h-20 w-[220px] rounded-full bg-white/10 blur-2xl" />
           <div className="relative mx-auto mb-8 h-16 w-[260px] rounded-full bg-[#fff0f8]/80 shadow-[0_12px_40px_rgba(255,209,240,0.16)]" />
-          <div className="relative mx-auto h-[220px] w-[320px] rounded-[50px] border border-white/15 bg-[#fdd6ea]/95 shadow-[inset_0_-12px_20px_rgba(255,255,255,0.45),0_18px_90px_rgba(96,30,94,0.16)]">
+          <div className="relative mx-auto h-[220px]  rounded-[50px] border border-white/15 bg-[#fdd6ea]/95 shadow-[inset_0_-12px_20px_rgba(255,255,255,0.45),0_18px_90px_rgba(96,30,94,0.16)]">
             <div className="absolute inset-x-6 bottom-28 h-24 rounded-[32px] bg-[#ffdff4] shadow-[inset_0_-8px_20px_rgba(255,255,255,0.35)]" />
             <div className="absolute inset-x-12 bottom-0 h-16 rounded-[28px] bg-[#eaa8ff]/90" />
             <div className="absolute top-24 left-8 h-6 w-10 rounded-full bg-[#ffe8ff]/90" />

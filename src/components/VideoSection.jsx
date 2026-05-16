@@ -84,7 +84,7 @@ function VideoCard({ video }) {
       <div className="mt-4 space-y-2 px-1">
         <p className="text-sm text-white/70">{video.caption}</p>
         <p className="text-xs uppercase tracking-[0.2em] text-white/40">
-          Vertical reel layout • autoplay when visible • pause when out of view
+          {"⭐🌟⭐🌟⭐🌟✨🌟✨⭐✨🌟🌟"}
         </p>
       </div>
     </motion.div>
